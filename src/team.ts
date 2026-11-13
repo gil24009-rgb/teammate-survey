@@ -1,0 +1,1 @@
+export const TEAM = ["Nepal", "Lori", "Johnny", "Hailey", "Lauren", "Dallon", "Rodrigo", "Daniela", "Val", "Gift", "Trey", "Wilford", "Sariah.H", "Payton", "Sam", "Gabriel", "Jun", "Esme", "Sariah.D"] as const;
